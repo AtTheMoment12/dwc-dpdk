@@ -1,0 +1,3 @@
+
+
+#define PMD_INIT_FUNC_TRACE() PMD_INIT_LOG(DEBUG, " >>")
